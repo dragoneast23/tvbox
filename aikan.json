@@ -1,6 +1,6 @@
 {  
 "主页url": "https://v.ikanbot.com/",
-"分类url":"https://v.ikanbot.com/category/",  
+"分类url":"https://v.ikanbot.com/category/{cateid}",  
   "调试":"1",    
 "分类":"电影$1#剧集$2#动漫$3"
 }
