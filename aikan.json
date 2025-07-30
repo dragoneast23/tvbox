@@ -1,6 +1,5 @@
 {  
-"主页url":"",
 "分类url":"https://v.ikanbot.com/hot/index-{cateid}-&&-p-{catepg}.html",  
   "调试":"1",    
-"分类":"电视剧$1#电影$2#动漫$3"
+"分类":"电影$1#剧集$2"
 }
