@@ -1,6 +1,6 @@
 {  
 "主页url": "",
-"分类url":"https://iidie.com/type-{cateid}/",  
+"分类url":"https://iidie.com/type-{class}-{catepg}/",  
   "调试":"1",    
 "分类":"电影$1#剧集$2#动漫$3"
 }
